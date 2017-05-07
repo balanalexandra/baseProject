@@ -1,0 +1,130 @@
+{"Rates": [
+  {
+    "currency": "AED",
+    "rate": "1.1293"
+  },
+  {
+    "currency": "AUD",
+    "rate": "3.0689"
+  },
+  {
+    "currency": "BGN",
+    "rate": "2.3247"
+  },
+  {
+    "currency": "BRL",
+    "rate": "1.3009"
+  },
+  {
+    "currency": "CAD",
+    "rate": "3.0124"
+  },
+  {
+    "currency": "CHF",
+    "rate": "4.1977"
+  },
+  {
+    "currency": "CNY",
+    "rate": "0.6012"
+  },
+  {
+    "currency": "CZK",
+    "rate": "0.1695"
+  },
+  {
+    "currency": "DKK",
+    "rate": "0.6113"
+  },
+  {
+    "currency": "EGP",
+    "rate": "0.2288"
+  },
+  {
+    "currency": "EUR",
+    "rate": "4.5467"
+  },
+  {
+    "currency": "GBP",
+    "rate": "5.3652"
+  },
+  {
+    "currency": "HRK",
+    "rate": "0.6119"
+  },
+  {
+    "currency": "HUF",
+    "-multiplier": "100",
+    "rate": "1.4580"
+  },
+  {
+    "currency": "INR",
+    "rate": "0.0645"
+  },
+  {
+    "currency": "JPY",
+    "-multiplier": "100",
+    "rate": "3.6955"
+  },
+  {
+    "currency": "KRW",
+    "-multiplier": "100",
+    "rate": "0.3640"
+  },
+  {
+    "currency": "MDL",
+    "rate": "0.2184"
+  },
+  {
+    "currency": "MXN",
+    "rate": "0.2175"
+  },
+  {
+    "currency": "NOK",
+    "rate": "0.4789"
+  },
+  {
+    "currency": "NZD",
+    "rate": "2.8622"
+  },
+  {
+    "currency": "PLN",
+    "rate": "1.0777"
+  },
+  {
+    "currency": "RSD",
+    "rate": "0.0369"
+  },
+  {
+    "currency": "RUB",
+    "rate": "0.0711"
+  },
+  {
+    "currency": "SEK",
+    "rate": "0.4690"
+  },
+  {
+    "currency": "TRY",
+    "rate": "1.1647"
+  },
+  {
+    "currency": "UAH",
+    "rate": "0.1560"
+  },
+  {
+    "currency": "USD",
+    "rate": "4.1479"
+  },
+  {
+    "currency": "XAU",
+    "rate": "164.6751"
+  },
+  {
+    "currency": "XDR",
+    "rate": "5.6870"
+  },
+  {
+    "currency": "ZAR",
+    "rate": "0.3050"
+  }
+]
+}
